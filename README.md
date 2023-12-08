@@ -1,4 +1,4 @@
-# <p align="center">:bulb:5X5 빙고 만들기:bulb:</p>
+# <p align="center">5X5 빙고 만들기</p>
 <p align="center"><img width="35%" src="https://github.com/hansol92010/bingo/assets/130436788/015f5095-298e-4712-b56c-7ad0714839ce" /></p>
 
 ******
